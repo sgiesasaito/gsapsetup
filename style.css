@@ -1,4 +1,4 @@
-href="https://api.fontshare.com/v2/css?f[]=bevellier@200,400,201&display=swap" rel="stylesheet
+@import url('bevellier.css');
 
 body,html {
     overflow-x:hidden;
