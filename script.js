@@ -1,6 +1,6 @@
 // https://unpkg.co/gsap@3/dist/gsap.min.js
 // https://assets.codepen.io/16327/ScrollTrigger.min.js
-// https://www.fontshare.com/fonts/bevellier
+// href="https://api.fontshare.com/v2/css?f[]=bevellier@200,400,201&display=swap" rel="stylesheet"
 
 gsap.registerPlugin(ScrollTrigger);
 

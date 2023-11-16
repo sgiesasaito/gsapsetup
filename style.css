@@ -1,9 +1,11 @@
+href="https://api.fontshare.com/v2/css?f[]=bevellier@200,400,201&display=swap" rel="stylesheet
+
 body,html {
     overflow-x:hidden;
 }
 body {
     margin:0;
-    font-family: 'Bevellier-Variable';
+    font-family: 'Bevellier', sans-serif;
     color:#FFF;
 }
 section {
