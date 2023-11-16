@@ -1,5 +1,6 @@
-# DESN 368 Web Design 1 Starter Template
+# practice install gsap
 
-> **NOTE:** This is a work in progress.
+> **NOTE:** practice for gsap
 
-DIY Template, starter, boilerplate, prototype, etc. for future Web Design projects. 
+## citations
+gsap scroll trigger
