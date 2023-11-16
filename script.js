@@ -1,5 +1,6 @@
 // https://unpkg.co/gsap@3/dist/gsap.min.js
 // https://assets.codepen.io/16327/ScrollTrigger.min.js
+// https://www.fontshare.com/fonts/bevellier
 
 gsap.registerPlugin(ScrollTrigger);
 
